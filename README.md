@@ -1,5 +1,7 @@
 # Y.A.MAKER
 
+#### By: Jerry Forsberg, Joey Reyes, Kaelyn Rieffer, Michael Farris, Yulia Tikhonova.
+
 ## Project 3 
   For our final project we were required to use the skill set we have developed throughout the course. We have designed a full stack website using ReactJS with a MySQL database. The new technologies we have implemented into our project are paypal and cloudinary. The owner of the website will have a login to maintain the gallery page using a modal.  
 
@@ -34,7 +36,7 @@
 
 ![](https://github.com/yuliatikhonova/Y.A.MAKER/blob/readme/client/public/readme-imgs/mobile-view.gif)
 
-### Media Query
+### Media Query 
   We used media queries for the background images on our pages. As you can see when the page shrinks the image changes. These differences can also be seen between the mobile and desktop view gifs for the same pages.
   
 ![](https://github.com/yuliatikhonova/Y.A.MAKER/blob/readme/client/public/readme-imgs/Media-query.gif)
